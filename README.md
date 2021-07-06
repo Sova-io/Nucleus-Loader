@@ -9,7 +9,7 @@
 ![build][Build-shield]
 
   
-Download [v1.0.0 (stable)](https://github.com/Sova-io/Nucleus-Loader/releases/tag/1.0.0)
+Download [v1.0.0 (stable)](https://github.com/Sova-io/Nucleus-Loader/releases/download/v1.0.0/NucleusLoader-v1.0.0-Setup.exe)
 
 [Build-shield]: https://img.shields.io/badge/build-passing-brightgreen
 [forks-shield]: https://img.shields.io/github/forks/Sova-io/Nucleus-Loader.svg
